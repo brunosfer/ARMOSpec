@@ -1,11 +1,15 @@
 #!/bin/bash
-#title          :ARMOSpec.sh
-#description    :Prints Raspberry Pi Info, CPU Info, uSD card Registers.
-#author			:Bruno Fernandes {bruno.s.fernandes@gmail.com}
-#date           :17-03-2016
-#version        :1
-#usage			:./ARMOSpec.sh
-#notes          :
+#==============================================================================
+# Title       : ARMOSpec.sh
+# Description : Prints Raspberry Pi, CPU and microSD card register information.
+# Author      : Bruno Fernandes {bruno.s.fernandes@gmail.com}
+# Date        : 17-03-2016
+# Version     : 1
+# Usage       : ./ARMOSpec.sh
+#------------------------------------------------------------------------------
+# Copyright (c) 2016 Bruno Fernandes <bruno.fernandes@tum.de>
+# SPDX-License-Identifier: MIT
+# Licensed under the MIT license. See LICENSE for the full text.
 #==============================================================================
 
 sample="10"							# Sample rate in Seconds
